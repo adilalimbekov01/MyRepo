@@ -1,1 +1,1 @@
-console.log('Hello Epta !');
+console.log('JavaScript is awesome !');
